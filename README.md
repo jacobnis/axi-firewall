@@ -17,14 +17,8 @@ through Malicious Hardware", which will be presented at
 |        Folder        |                        Description                           |
 | -------------------- | ------------------------------------------------------------ |
 | [hdl](./hdl)		     | VHDL files for the security enhanced AXI wrapper             |
-| [example](./example) | Working directory of an example IP core using the wrapper    |
 | [paper](./paper)     | Related publication at the <a href="https://link.springer.com/chapter/10.1007/978-3-319-66787-4_21">CHES2017</a> conference |
 
-## Example
-This folder consists of example IP core with the security enhanced AXI wrapper.
-For this example the a simple XOR IP core is implemented. 
-This is a place holder for high speed cryptographic core.
-The IP core was packaged using Vivado for the Xilinx 7 series FPGAs.
 
 ## License
 
